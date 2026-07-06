@@ -1,6 +1,10 @@
-[English](README.md) | 한국어
+[English](README.md) | 한국어 | [中文](README.zh.md) | [日本語](README.ja.md) | [Español](README.es.md)
 
 # dd
+
+<p align="center">
+  <img src="assets/dd-hero-01.png" alt="dd" width="320">
+</p>
 
 > 긴 로그나 스크린샷을 대화창에 통째로 붙이지 않고 Claude Code에 넘기는 방법.
 

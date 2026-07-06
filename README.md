@@ -1,6 +1,10 @@
-English | [한국어](README.ko.md)
+English | [한국어](README.ko.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [Español](README.es.md)
 
 # dd
+
+<p align="center">
+  <img src="assets/dd-hero-01.png" alt="dd" width="320">
+</p>
 
 > Hand Claude Code a long log or a screenshot without pasting it into the chat.
 
